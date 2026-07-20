@@ -1,5 +1,7 @@
 # mini-nodejs-solo-project
 
+> Built as part of Scrimba's Node.js course.
+
 A simple Node.js REST API serving a curated dataset of the world's most fascinating and unusual destinations, with filtering by continent, country, and public access.
 
 ## Features
