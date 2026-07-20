@@ -1,4 +1,4 @@
-# Mini-NodeJS-Solo-Project
+# mini-nodejs-solo-project
 
 A simple Node.js REST API serving a curated dataset of the world's most fascinating and unusual destinations, with filtering by continent, country, and public access.
 
@@ -22,8 +22,8 @@ A simple Node.js REST API serving a curated dataset of the world's most fascinat
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/Mini-NodeJS-Solo-Project.git
-cd Mini-NodeJS-Solo-Project
+git clone https://github.com/nisanurcalik/mini-nodejs-solo-project.git
+cd mini-nodejs-solo-project
 ```
 
 ### Running the server
